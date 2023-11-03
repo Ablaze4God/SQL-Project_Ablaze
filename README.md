@@ -21,7 +21,8 @@
 ## Results
 (fill in what you discovered this data could tell you and how you used the data to answer those questions)
 
-1. How many visits to the site actually translated to purchases or placing orders for products
+1. How many visits to the site actually translated to purchases or placing orders for products (i.e. percentage of visitors to the site that actually makes a purchase)
+2. The total number of unique visitors by referring sites
 
 ## Challenges 
 (discuss challenges you faced in the project)
