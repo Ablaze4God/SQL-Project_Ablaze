@@ -1,5 +1,6 @@
 What issues will you address by cleaning the data?
 
+
 1. Some columns on some of the tables have only Null Values. I will need to identify and exclude columns that are entirely NULL.
 2. Some tables had missing values which would be problematic for analysis. I will need to update those with either interpolated values or zero (0).
 3. Inconsistent Data Types:I need to ensure that data types are appropriate for their respective columns. 
